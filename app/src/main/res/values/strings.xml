@@ -1,0 +1,54 @@
+<resources>
+    <string name="app_name">Wardrobe Database</string>
+    <string name="item_image_preview">Image preview for clothes</string>
+    <string name="add_item">Add new clothes</string>
+    <string name="item_image">Image for clothes</string>
+    <string name="search">Search</string>
+    <string name="edit_item">Edit Item</string>
+    <string name="name">Name</string>
+    <string name="description">Description</string>
+
+    <string name="select_tags">Select Tags</string>
+    <string name="select_tags_hint">Check the tags you want to associate with this item</string>
+    <string name="image">Image</string>
+    <string name="select_image">Select Image</string>
+    <string name="remove_image">Remove Image</string>
+    <string name="save">Save</string>
+    <string name="delete">Delete</string>
+    <string name="remove">Remove</string>
+    <string name="confirm">Confirm</string>
+
+
+
+    <string name="name_required">Name is required</string>
+
+    <string name="error_loading_image">Error loading image</string>
+    <!-- Tags -->
+    <string name="tags">Tags</string>
+    <string name="manage_tags">Manage Tags</string>
+    <string name="create_new_tag">Create new tag</string>
+    <string name="add">Add</string>
+    <string name="available_tags">Available Tags</string>
+    <string name="no_tags_selected">No tags selected</string>
+    <string name="no_tags_available">No tags available</string>
+    <string name="create_first_tag">Create your first tag above</string>
+    <string name="tags_selected">tags selected</string>
+    <string name="tags_selected_count">%d tag(s) selected</string>
+    <string name="tag_usage_format">Used by %d item(s)</string>
+    <string name="delete_tag">Delete Tag</string>
+    <string name="confirm_delete_tag">Are you sure you want to delete \"%s\"?</string>
+    <string name="cannot_delete_used_tag">Cannot delete tag that is in use</string>
+    <string name="tag_deleted">Tag deleted successfully</string>
+    <string name="tag_created">Tag created successfully</string>
+    <string name="tag_name_required">Tag name is required</string>
+    <string name="last_wear">"Last wear: "</string>
+    <string name="bought">"Bought: "</string>
+    <string name="bought_time">Bought Time</string>
+    <string name="last_wear_time">Last Wear Time</string>
+    <string name="select_bought_time">Select Bought Time</string>
+    <string name="select_last_wear_time">Select Last Wear Time</string>
+    <string name="no_date_selected">No date selected</string>
+    <string name="confirm_delete_item">Are you sure you want to delete this item?</string>
+    <string name="delete_item_title">Delete Item</string>
+    <string name="item_deleted">Item deleted successfully</string>
+</resources>
